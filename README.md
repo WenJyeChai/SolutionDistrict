@@ -1,7 +1,7 @@
 # Solution District
 
 <p float="left">
-	<img src="segp/project_1/static/SolutionDistrict.png" width="400" />
+	<img src="segp/project_1/static/SolutionDistrict.png" width="500" />
 </p>
 
 What is Solution District?
@@ -13,6 +13,12 @@ Technology
 This web application is fully developed using Django, a free and open-source, Python-based web framework that follows the model–template–views (MTV) architectural pattern. Natural language processing techniques have been integrated into this project to analyse academic research topic trend based on keywords query. 
 
 ## Screenshot
+
+<p align="center" float="left">
+	<img src="segp/project_1/static/ScreenShot_1.png" width="500" />
+	<img src="segp/project_1/static/ScreenShot_2.png" width="500" />
+	<img src="segp/project_1/static/ScreenShot_3.png" width="500" />
+</p>
 
 ## Installing
 
