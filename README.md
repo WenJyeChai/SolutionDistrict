@@ -58,3 +58,18 @@ After the local server is running in the command prompt, enter http://127.0.0.1:
 ### Halting of the localhost server
 To terminate the localhost server, open the command prompt that localhost server is running in.
 Use CTRL + BREAK/PAUSE to terminate the localhost server.
+
+# Attribute
+> All files included inside the lib folder are written in-house.
+### List of packages (Standard Libraries) that has been included into the project are as follow:
+  * django
+  * mendeley
+  * elsapy
+  * pytrends
+  * aiohttp
+  * asyncio
+  * plotly
+  * nltk
+  * sklearn
+  * wheel
+
