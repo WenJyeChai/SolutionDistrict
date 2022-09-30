@@ -1,3 +1,9 @@
+# Solution District
+
+<p float="left">
+	<img src="\project_1\static\SolutionDistrict.png" width="400" />
+</p>
+
 # About This Project
 
 Solution District is a web application that aims to aid researchers in coming up with interesting and new topics for future research.
