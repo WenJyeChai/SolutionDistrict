@@ -1,7 +1,7 @@
 # Solution District
 
 <p float="left">
-	<img src="\project_1\static\SolutionDistrict.png" width="400" />
+	<img src="segp/project_1/static/SolutionDistrict.png" width="400" />
 </p>
 
 # About This Project
