@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f973549f-61d9-42d0-b01c-34a3b25cbb4b" name="Default Changelist" comment="">
+<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/segp/project_1/combinations/db_keyword_combination.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segp/project_1/paper/db_paper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segp/project_1/paper/db_paper_keyword.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segp/project_1/combinations/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/segp/project_1/combinations/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segp/project_1/combinations/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/segp/project_1/combinations/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segp/project_1/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/segp/project_1/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segp/project_1/myapp/mendeleyScores.py" beforeDir="false" afterPath="$PROJECT_DIR$/segp/project_1/myapp/mendeleyScores.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segp/project_1/myapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/segp/project_1/myapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segp/project_1/paper/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/segp/project_1/paper/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segp/project_1/paper/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/segp/project_1/paper/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segp/project_1/search_keyword/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/segp/project_1/search_keyword/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segp/project_1/search_keyword/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/segp/project_1/search_keyword/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segp/project_1/templates/Case1.html" beforeDir="false" afterPath="$PROJECT_DIR$/segp/project_1/templates/Case1.html" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segp/project_1/combinations/db_combination_query.py" beforeDir="false" afterPath="$PROJECT_DIR$/segp/project_1/combinations/db_combination_query.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segp/project_1/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/segp/project_1/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segp/project_1/myapp/categoryScore.py" beforeDir="false" afterPath="$PROJECT_DIR$/segp/project_1/myapp/categoryScore.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segp/project_1/myapp/categoryscraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/segp/project_1/myapp/categoryscraper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segp/project_1/subcategory/db_subcategory_query.py" beforeDir="false" afterPath="$PROJECT_DIR$/segp/project_1/subcategory/db_subcategory_query.py" afterDir="false" />
+>>>>>>> 17b9d88f976031f8a99d948657c7779b56329152
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/segp/project_1/myapp/mendeleyScores.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="91" column="37" selection-start-line="91" selection-start-column="37" selection-end-line="91" selection-end-column="37" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/segp/project_1/myapp/mendeleyScores.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+>>>>>>> 17b9d88f976031f8a99d948657c7779b56329152
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+                <element signature="e#410#583#0" />
+                <element signature="e#637#832#0" />
+                <element signature="e#904#969#0" />
+                <element signature="e#1032#1265#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/segp/project_1/combinations/db_keyword_combination.py">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state>
+              <caret column="39" lean-forward="true" selection-start-column="39" selection-end-column="39" />
+=======
+            <state relative-caret-position="248">
+              <caret line="183" lean-forward="true" selection-start-line="183" selection-end-line="183" />
+              <folding>
+                <element signature="e#1#30#0" expanded="true" />
+                <element signature="e#289#2103#0" />
+                <element signature="e#2150#3912#0" />
+                <element signature="e#3228#4963#0" />
+                <element signature="e#5730#6191#0" />
+                <element signature="e#6226#6516#0" />
+                <element signature="e#6551#6837#0" />
+              </folding>
+>>>>>>> 17b9d88f976031f8a99d948657c7779b56329152
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/segp/project_1/paper/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+=======
+        <entry file="file://$PROJECT_DIR$/segp/project_1/subcategory/views.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/segp/project_1/myapp/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="45" column="42" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+>>>>>>> 17b9d88f976031f8a99d948657c7779b56329152
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/segp/project_1/paper/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+=======
+            <state>
+              <folding>
+                <element signature="e#1#30#0" expanded="true" />
+>>>>>>> 17b9d88f976031f8a99d948657c7779b56329152
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/segp/project_1/paper/db_paper_keyword.py">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="442">
+              <caret line="40" column="24" lean-forward="true" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+=======
+            <state relative-caret-position="680">
+              <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+>>>>>>> 17b9d88f976031f8a99d948657c7779b56329152
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/segp/project_1/paper/db_paper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="545">
+              <caret line="55" column="31" lean-forward="true" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+=======
+        <entry file="file://$PROJECT_DIR$/segp/project_1/combinations/db_combination_query.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+>>>>>>> 17b9d88f976031f8a99d948657c7779b56329152
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/segp/project_1/myapp/mendeleyScript.py">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="306">
+=======
+            <state relative-caret-position="323">
+>>>>>>> 17b9d88f976031f8a99d948657c7779b56329152
+              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/segp/project_1/search_keyword/db_keyword_query.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="18" selection-start-line="18" selection-end-line="21" selection-end-column="23" />
+=======
+        <entry file="file://$PROJECT_DIR$/segp/project_1/templates/Testing.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="74" column="28" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
+>>>>>>> 17b9d88f976031f8a99d948657c7779b56329152
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>like</find>
+      <find>x</find>
+      <find>sto</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/segp/project_1/templates/WebsiteSEGP.html" />
+        <option value="$PROJECT_DIR$/segp/project_1/myapp/demo_algo.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/static/research_styles.css" />
+        <option value="$PROJECT_DIR$/segp/project_1/paper_author/models.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/myapp/models.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/paper_author/admin.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/myapp/admin.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/project_1/settings.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/search_keyword/migrations/0001_initial.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/myapp/avgReaderCountScript.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/templates/Results1.html" />
+        <option value="$PROJECT_DIR$/segp/project_1/myapp/urls.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/templates/Case2.html" />
+        <option value="$PROJECT_DIR$/segp/project_1/subcategory/db_query.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/myapp/storeData.py" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/segp/project_1/subcategory/models.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/subcategory/admin.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/templates/Testing.html" />
+=======
+        <option value="$PROJECT_DIR$/segp/project_1/search_keyword/db_keyword_query.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/subcategory/models.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/subcategory/admin.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/templates/Testing.html" />
+        <option value="$PROJECT_DIR$/segp/project_1/myapp/mendeleyScores.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/myapp/views.py" />
+>>>>>>> 17b9d88f976031f8a99d948657c7779b56329152
+        <option value="$PROJECT_DIR$/segp/project_1/subcategory/db_subcategory_query.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/myapp/categoryscraper.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/myapp/categoryScore.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/templates/Case1.html" />
+        <option value="$PROJECT_DIR$/segp/project_1/myapp/views.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/combinations/admin.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/search_keyword/db_keyword_query.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/combinations/db_keyword_combination.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/search_keyword/models.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/search_keyword/admin.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/combinations/models.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/paper/db_paper.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/paper/models.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/paper/db_paper_keyword.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/paper/admin.py" />
+        <option value="$PROJECT_DIR$/segp/project_1/myapp/mendeleyScores.py" />
+      </list>
+    </option>
+  </component>
+<<<<<<< HEAD
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="width" value="980" />
+    <option name="height" value="1100" />
+=======
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="855" />
+    <option name="y" value="1" />
+    <option name="width" value="979" />
+    <option name="height" value="1090" />
+>>>>>>> 17b9d88f976031f8a99d948657c7779b56329152
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="segp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="segp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="segp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="segp" type="462c0819:PsiDirectoryNode" />
+              <item name="segp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="segp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="segp" type="462c0819:PsiDirectoryNode" />
+              <item name="segp" type="462c0819:PsiDirectoryNode" />
+              <item name="project_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="segp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="segp" type="462c0819:PsiDirectoryNode" />
+              <item name="segp" type="462c0819:PsiDirectoryNode" />
+              <item name="project_1" type="462c0819:PsiDirectoryNode" />
+              <item name="combinations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="segp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="segp" type="462c0819:PsiDirectoryNode" />
+              <item name="segp" type="462c0819:PsiDirectoryNode" />
+              <item name="project_1" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="segp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="segp" type="462c0819:PsiDirectoryNode" />
+              <item name="segp" type="462c0819:PsiDirectoryNode" />
+              <item name="project_1" type="462c0819:PsiDirectoryNode" />
+              <item name="paper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="segp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="segp" type="462c0819:PsiDirectoryNode" />
+              <item name="segp" type="462c0819:PsiDirectoryNode" />
+              <item name="project_1" type="462c0819:PsiDirectoryNode" />
+              <item name="search_keyword" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="segp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="segp" type="462c0819:PsiDirectoryNode" />
+              <item name="segp" type="462c0819:PsiDirectoryNode" />
+              <item name="project_1" type="462c0819:PsiDirectoryNode" />
+              <item name="subcategory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="segp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="segp" type="462c0819:PsiDirectoryNode" />
+              <item name="segp" type="462c0819:PsiDirectoryNode" />
+              <item name="project_1" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Nov18" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.categoryscraper">
+    <configuration name="avgReaderCountScript" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="segp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/segp/project_1/myapp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/segp/project_1/myapp/avgReaderCountScript.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="categoryscraper" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="segp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/segp/project_1/myapp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/segp/project_1/myapp/categoryscraper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.categoryscraper" />
+        <item itemvalue="Python.avgReaderCountScript" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f973549f-61d9-42d0-b01c-34a3b25cbb4b" name="Default Changelist" comment="" />
+      <created>1605424987723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605424987723</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14606741" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3297587" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.27211797" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3297587" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Downloads/mendeleyScores.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Downloads/mendeleyScores.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Downloads/mendeleyScores.py</url>
+          <line>124</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/segp/project_1/myapp/mendeleyScores.py</url>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/segp/project_1/myapp/mendeleyScores.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/segp/project_1/myapp/categoryScore.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/segp/project_1/combinations/db_keyword_combination.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/segp/project_1/combinations/db_keyword_combination.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/segp/project_1/myapp/mendeleyScores.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../15N/Results.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../15N/case1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="79" column="29" lean-forward="true" selection-start-line="79" selection-start-column="29" selection-end-line="79" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/templates/WebsiteSEGP.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/static/research_styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="86" column="6" selection-start-line="86" selection-start-column="2" selection-end-line="86" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/myapp/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/project_1/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/paper_author/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/myapp/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/myapp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/mendeleyScores.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="165" column="9" selection-start-line="165" selection-start-column="9" selection-end-line="165" selection-end-column="9" />
+          <folding>
+            <element signature="e#57#306#0" />
+            <element signature="e#349#419#0" />
+            <element signature="e#498#547#0" />
+            <element signature="e#607#647#0" />
+            <element signature="e#707#882#0" />
+            <element signature="e#934#1125#0" />
+            <element signature="e#1194#1259#0" />
+            <element signature="e#1320#1528#0" />
+            <element signature="e#4031#4321#0" />
+            <element signature="e#4356#4642#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/project_1/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/search_keyword/migrations/0003_auto_20210116_1834.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/search_keyword/migrations/0002_auto_20210115_2240.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/search_keyword/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="18" column="79" selection-start-line="18" selection-start-column="79" selection-end-line="18" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/myapp/avgReaderCountScript.py" />
+    <entry file="file://$PROJECT_DIR$/segp/project_1/myapp/demo_algo.py" />
+    <entry file="file://$PROJECT_DIR$/segp/project_1/db.sqlite3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/templates/Results1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="39" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/myapp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/paper/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/myapp/storeData.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/subcategory/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/templates/Testing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="74" column="28" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/subcategory/db_subcategory_query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/combinations/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/mendeleyScores (1).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="86" column="29" lean-forward="true" selection-start-line="86" selection-start-column="29" selection-end-line="86" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/subcategory/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/templates/Case2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/templates/Case1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="66" column="66" selection-start-line="66" selection-start-column="66" selection-end-line="66" selection-end-column="77" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/myapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="45" column="45" lean-forward="true" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/search_keyword/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-644">
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/views (1).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/combinations/db_combination_query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#121#227#0" />
+            <element signature="e#286#516#0" />
+            <element signature="e#573#701#0" />
+            <element signature="e#755#915#0" />
+            <element signature="e#1111#1199#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/myapp/categoryscraper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#1#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/combinations/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/myapp/categoryScore.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2329">
+          <caret line="143" selection-start-line="143" selection-end-line="143" />
+          <folding>
+            <element signature="e#1#30#0" expanded="true" />
+            <element signature="e#3228#4963#0" />
+            <element signature="e#5730#6191#0" />
+            <element signature="e#6226#6516#0" />
+            <element signature="e#6551#6837#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/search_keyword/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/subcategory/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/paper_author/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/myapp/mendeleyScript.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="306">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+=======
+        <state relative-caret-position="680">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/combinations/db_combination_query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+>>>>>>> 17b9d88f976031f8a99d948657c7779b56329152
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/segp/project_1/search_keyword/db_keyword_query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" selection-start-line="18" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/combinations/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="13" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/segp/project_1/combinations/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/myapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="45" column="42" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/myapp/categoryscraper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#1#30#0" expanded="true" />
+>>>>>>> 17b9d88f976031f8a99d948657c7779b56329152
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/paper/db_paper.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="545">
+          <caret line="55" column="31" lean-forward="true" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+=======
+        <state relative-caret-position="323">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+>>>>>>> 17b9d88f976031f8a99d948657c7779b56329152
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/segp/project_1/paper/db_paper_keyword.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="40" column="24" lean-forward="true" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+=======
+    <entry file="file://$PROJECT_DIR$/segp/project_1/subcategory/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/myapp/mendeleyScores.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+>>>>>>> 17b9d88f976031f8a99d948657c7779b56329152
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/segp/project_1/combinations/db_keyword_combination.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" lean-forward="true" selection-start-column="39" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/search_keyword/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/paper/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/paper/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segp/project_1/myapp/mendeleyScores.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="91" column="37" selection-start-line="91" selection-start-column="37" selection-end-line="91" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#410#583#0" />
+            <element signature="e#637#832#0" />
+            <element signature="e#904#969#0" />
+            <element signature="e#1032#1265#0" />
+=======
+    <entry file="file://$PROJECT_DIR$/segp/project_1/myapp/categoryScore.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="183" lean-forward="true" selection-start-line="183" selection-end-line="183" />
+          <folding>
+            <element signature="e#1#30#0" expanded="true" />
+            <element signature="e#289#2103#0" />
+            <element signature="e#2150#3912#0" />
+            <element signature="e#3228#4963#0" />
+            <element signature="e#5730#6191#0" />
+            <element signature="e#6226#6516#0" />
+            <element signature="e#6551#6837#0" />
+>>>>>>> 17b9d88f976031f8a99d948657c7779b56329152
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

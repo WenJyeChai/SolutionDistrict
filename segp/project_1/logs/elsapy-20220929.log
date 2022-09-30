@@ -1,0 +1,50 @@
+2022-09-29 21:30:26,242 - elsapy.elsclient - INFO - Module loaded.
+2022-09-29 21:30:26,243 - elsapy.elsentity - INFO - Module loaded.
+2022-09-29 21:30:26,244 - elsapy.utils - INFO - Module loaded.
+2022-09-29 21:30:26,244 - elsapy.elsprofile - INFO - Module loaded.
+2022-09-29 21:30:26,246 - elsapy.elsdoc - INFO - Module loaded.
+2022-09-29 21:30:26,247 - elsapy.elssearch - INFO - Module loaded.
+2022-09-29 21:31:42,166 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=Software+Systems+Mechanical+Engineering
+2022-09-29 21:31:43,122 - elsapy.utils - INFO - Converting prism:coverDate
+2022-09-29 21:31:49,242 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=Software+Systems+Artificial+Intelligence
+2022-09-29 21:31:50,318 - elsapy.utils - INFO - Converting prism:coverDate
+2022-09-29 21:31:56,924 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=Software+Systems+Multimedia
+2022-09-29 21:31:57,835 - elsapy.utils - INFO - Converting prism:coverDate
+2022-09-29 21:32:04,315 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=Software+Systems+Architecture
+2022-09-29 21:32:05,229 - elsapy.utils - INFO - Converting prism:coverDate
+2022-09-29 21:32:10,760 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=Software+Systems+Robotics
+2022-09-29 21:32:12,602 - elsapy.utils - INFO - Converting prism:coverDate
+2022-09-29 21:32:18,977 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=Mechanical+Engineering+Artificial+Intelligence
+2022-09-29 21:32:19,915 - elsapy.utils - INFO - Converting prism:coverDate
+2022-09-29 21:32:24,733 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=Mechanical+Engineering+Multimedia
+2022-09-29 21:32:25,353 - elsapy.utils - INFO - Converting prism:coverDate
+2022-09-29 21:32:31,201 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=Mechanical+Engineering+Architecture
+2022-09-29 21:32:32,402 - elsapy.utils - INFO - Converting prism:coverDate
+2022-09-29 21:32:37,512 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=Mechanical+Engineering+Robotics
+2022-09-29 21:32:38,163 - elsapy.utils - INFO - Converting prism:coverDate
+2022-09-29 21:32:43,282 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=Artificial+Intelligence+Multimedia
+2022-09-29 21:32:44,248 - elsapy.utils - INFO - Converting prism:coverDate
+2022-09-29 21:32:49,368 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=Artificial+Intelligence+Architecture
+2022-09-29 21:32:50,313 - elsapy.utils - INFO - Converting prism:coverDate
+2022-09-29 21:32:55,180 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=Artificial+Intelligence+Robotics
+2022-09-29 21:32:56,081 - elsapy.utils - INFO - Converting prism:coverDate
+2022-09-29 21:33:00,826 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=Multimedia+Architecture
+2022-09-29 21:33:01,547 - elsapy.utils - INFO - Converting prism:coverDate
+2022-09-29 21:33:06,247 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=Multimedia+Robotics
+2022-09-29 21:33:07,317 - elsapy.utils - INFO - Converting prism:coverDate
+2022-09-29 21:33:12,491 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=Architecture+Robotics
+2022-09-29 21:33:13,221 - elsapy.utils - INFO - Converting prism:coverDate
+2022-09-29 21:33:30,957 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=Artificial+Intelligence+%2B+Robotics
+2022-09-29 21:33:31,602 - elsapy.utils - INFO - Converting prism:coverDate
+2022-09-29 21:34:32,065 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=robotic+computer+vision
+2022-09-29 21:34:32,715 - elsapy.utils - INFO - Converting prism:coverDate
+2022-09-29 21:34:40,940 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=robotic+%2B+computer+vision
+2022-09-29 21:34:41,916 - elsapy.utils - INFO - Converting prism:coverDate
+2022-09-29 21:36:49,596 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=robotic+%2B+computer+vision
+2022-09-29 21:36:50,737 - elsapy.utils - INFO - Converting prism:coverDate
+2022-09-29 21:51:25,353 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=robotic+%2B+computer+vision
+2022-09-29 21:51:26,201 - elsapy.utils - INFO - Converting prism:coverDate
+2022-09-29 21:51:46,501 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=Canny+Based+Ant
+2022-09-29 21:51:47,291 - elsapy.utils - INFO - Converting prism:coverDate
+2022-09-29 21:51:52,086 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=Canny+Based+Ant
+2022-09-29 21:51:53,109 - elsapy.utils - INFO - Converting prism:coverDate

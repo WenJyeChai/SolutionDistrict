@@ -1,0 +1,108 @@
+/* created by group */
+
+html{
+    height:max-content;
+}
+body{
+    --menu-item-size: 50px;
+    --green-color: #329680;
+    --blue-color: #099c95;
+    --dark-green-color: #175b52;
+    --white-color: #FFF;
+    --container-width: 700px;
+    --container-height: 400px;
+    --line-offset: calc((100% - var(--container-height))/ 2 + var(--menu-item-size) + 0.6em);
+    height:max-content;
+    padding-bottom:1vw;
+}
+
+.main-menu {
+    display: flex;
+    list-style: none;
+    margin: auto 0;
+    padding: 0.6em 0 0 0;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.main-menu > li {
+    color: #878787;
+    box-sizing: border-box;
+    padding: 1vw;
+    margin: 1vw;
+    transition: 0.5s linear all;
+    cursor: pointer;
+    font-size: 16px;
+    user-select: none;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+
+.main-menu > li > button {
+    color: #ffffff;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+
+.main-menu > li:nth-child(2) {
+    transform: translateX(-5%);
+}
+
+.main-menu > li:nth-child(3) {
+    transform: translateX(-10%)
+}
+
+.graph {
+	background-color: white;
+	border-radius:3px;
+	box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.tableproperty {
+	table-layout: auto;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	width:70%;
+	background-color: #00254e;
+	border-radius:3px;
+	box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    border-collapse: separate;
+    border-spacing: 16px;
+}
+
+td.tableproperty {
+	width: 35%;
+	padding: 20px;
+}
+
+td{
+    padding:10px;
+}
+
+td:hover{
+    background-color: #002f62;
+    color:white;
+    border-radius:5px;
+    transition-delay: 0s;
+	 transition-duration: 0.2s;
+	 transition-property: all;
+    transition-timing-function: line;
+}
+
+.content{
+   /*background: var(--gray-color);
+   padding: 1em;
+   border-radius: 0 0 5px 5px;
+   box-shadow: 5px 5px 5px #CCC;
+   position: relative;*/
+}
