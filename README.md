@@ -4,9 +4,9 @@
 	<img src="segp/project_1/static/SolutionDistrict.png" width="400" />
 </p>
 
-# About This Project
+# What is Solution District?
 
-Solution District is a web application that aims to aid researchers in coming up with interesting and new topics for future research.
+Solution District is a web application that aims to aid researchers in coming up with interesting and new topics for future research. This project helps researchers from all fields of study to find and consider relevant topics to be researched before choosing. Users shall simply present their topic to the website before proceeding to submit their requests. The importance of a topic or a combination of topics is determined by the score calculated by certain algorithms according to the user's preference.
 
 ## Installing
 
